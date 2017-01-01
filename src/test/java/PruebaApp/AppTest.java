@@ -35,4 +35,10 @@ public class AppTest
     {
         assertTrue( true ); 
     }
+    
+    //Test que falla
+     public void testApp() {
+        int res = 2;
+        assertTrue( res == 4 ); 
+    }
 }
