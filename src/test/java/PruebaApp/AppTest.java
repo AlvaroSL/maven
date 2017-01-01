@@ -37,7 +37,7 @@ public class AppTest
     }
     
     //Test que falla
-     public void testApp() {
+     public void testFalla() {
         int res = 2;
         assertTrue( res == 4 ); 
     }
